@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc74874f-ee62-4d45-a55f-7e4a02a0e235" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/RegistrationCenterTow/RegistrationCenterTow.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationCenter/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationCenter/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationCenter/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationCenter/target/classes/application.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,10 +55,11 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
@@ -73,13 +81,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.App">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hecheng.customer.App" />
-      <module name="Customer" />
+  <component name="RunManager" selected="Spring Boot.App (2)">
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hecheng.registrationcenter.App" />
+      <module name="RegistrationCenter" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hecheng.customer.*" />
+          <option name="PATTERN" value="com.hecheng.registrationcenter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,6 +104,19 @@
         </pattern>
       </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.hecheng.provider.App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="RegistrationCenterTow" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hecheng.registrationcentertow.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hecheng.registrationcentertow.App" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -128,10 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.App (2)" />
+        <item itemvalue="Application.App (1)" />
         <item itemvalue="Spring Boot.App" />
         <item itemvalue="Spring Boot.App2" />
         <item itemvalue="Spring Boot.App (1)" />
-        <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +168,7 @@
       <option name="presentableId" value="Default" />
       <updated>1568190661013</updated>
       <workItem from="1568190662464" duration="2948000" />
-      <workItem from="1568199724252" duration="6669000" />
+      <workItem from="1568199724252" duration="7995000" />
     </task>
     <servers />
   </component>

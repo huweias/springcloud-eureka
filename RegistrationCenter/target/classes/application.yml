@@ -8,8 +8,12 @@ eureka:
   client:
     #客户端调用地址
     serviceUrl:
-      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
-    #因为自己为注册中心，不注册自己
-    register-with-eureka: false
-    #因为自己是注册中心，不去在应用中检测服务
-    fetch-registry: false
+      defaultZone: http://localhost:8200/eureka
+    #因为自己为注册中心，不注册自己（集群需要为true，你中有我，我中有你思想）
+    register-with-eureka: true
+    #因为自己是注册中心，不去在应用中检测服务（集群需要为true，你中有我，我中有你思想）
+    fetch-registry: true
+#服务名称（serviceid）
+spring:
+  application:
+    name: springcloud-eureka

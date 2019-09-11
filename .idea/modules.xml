@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Customer/Customer.iml" filepath="$PROJECT_DIR$/Customer/Customer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Provider/Provider.iml" filepath="$PROJECT_DIR$/Provider/Provider.iml" />
       <module fileurl="file://$PROJECT_DIR$/RegistrationCenter/RegistrationCenter.iml" filepath="$PROJECT_DIR$/RegistrationCenter/RegistrationCenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RegistrationCenterTow/RegistrationCenterTow.iml" filepath="$PROJECT_DIR$/RegistrationCenterTow/RegistrationCenterTow.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SpringCloudEureka.iml" filepath="$PROJECT_DIR$/.idea/SpringCloudEureka.iml" />
     </modules>
   </component>
