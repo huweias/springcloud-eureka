@@ -24,7 +24,9 @@ public class MyController {
 
     @RequestMapping("/getRestEurekaString")
     public String getRestEurekaString(){
-        String str = restTemplate.getForObject("http://Provider/getString", String.class);
+        String url = "http://Provider/getString";
+        String str = restTemplate.getForObject(url, String.class);
+        System.out.println(url+".................................");
         System.out.println("rest方式通过注册中心调用服务："+str);
         return str;
     }

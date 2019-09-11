@@ -1,5 +1,5 @@
 server:
-  port: 8081
+  port: 8083
 #服务名称（注册到eureka的名称，serviceid）
 spring:
   application:
