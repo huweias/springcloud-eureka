@@ -13,3 +13,4 @@ eureka:
     register-with-eureka: false
     #因为自己是注册中心，不去在应用中检测服务
     fetch-registry: false
+    
