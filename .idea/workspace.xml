@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc74874f-ee62-4d45-a55f-7e4a02a0e235" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Provider/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Provider/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Provider/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Provider/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationCenter/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationCenter/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationCenter/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationCenter/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Provider/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Provider/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
