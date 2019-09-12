@@ -3,16 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fc74874f-ee62-4d45-a55f-7e4a02a0e235" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Customer/src/main/java/com/hecheng/customer/controller/MyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Customer/src/main/java/com/hecheng/customer/controller/MyController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Customer/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Customer/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Customer/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Customer/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Customer/target/classes/com/hecheng/customer/controller/MyController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Customer/target/classes/com/hecheng/customer/controller/MyController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Provider/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Provider/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Provider/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Provider/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationCenter/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationCenter/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationCenter/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationCenter/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationCenterTow/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationCenterTow/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationCenterTow/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationCenterTow/target/classes/application.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -171,7 +161,8 @@
       <option name="presentableId" value="Default" />
       <updated>1568190661013</updated>
       <workItem from="1568190662464" duration="2948000" />
-      <workItem from="1568199724252" duration="10647000" />
+      <workItem from="1568199724252" duration="11414000" />
+      <workItem from="1568267881896" duration="16000" />
     </task>
     <servers />
   </component>
@@ -183,7 +174,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
