@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="fc74874f-ee62-4d45-a55f-7e4a02a0e235" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Provider/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Provider/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Provider/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Provider/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationCenter/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationCenter/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationCenter/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationCenter/target/classes/application.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +78,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.App">
+  <component name="RunManager" selected="Spring Boot.App2">
     <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hecheng.registrationcenter.App" />
       <module name="RegistrationCenter" />
@@ -114,19 +118,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App (3)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="Customer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hecheng.customer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hecheng.customer.App" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="Provider" />
       <extension name="coverage">
@@ -140,13 +131,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="App2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hecheng.provider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hecheng.provider.App2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.App2" />
         <item itemvalue="Spring Boot.App" />
-        <item itemvalue="Spring Boot.App (2)" />
-        <item itemvalue="Application.App (1)" />
         <item itemvalue="Application.App" />
-        <item itemvalue="Spring Boot.App (3)" />
+        <item itemvalue="Application.App (1)" />
+        <item itemvalue="Spring Boot.App (2)" />
       </list>
     </recent_temporary>
   </component>
